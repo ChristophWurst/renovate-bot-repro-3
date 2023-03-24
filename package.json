@@ -17,7 +17,7 @@
   },
   "homepage": "https://github.com/ChristophWurst/renovate-bot-repro-1#readme",
   "dependencies": {
-    "jest-serializer-vue": "^2.0.2",
+    "jest-serializer-vue": "^3.1.0",
     "jquery": "^2.2.4",
     "pino": "^6.14.0",
     "vue": "^2.7.14",
